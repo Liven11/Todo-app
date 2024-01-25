@@ -7,8 +7,8 @@
 ## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3b07d34-f0da-4280-9076-fd40eea893c6/deploy-status)](https://app.netlify.com/sites/react-cool-todo-app/deploys)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maciekt07/TodoApp?color=%23b624ff)
-![GitHub License](https://img.shields.io/github/license/maciekt07/TodoApp?color=%23b624ff)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Liven11/TodoApp?color=%23b624ff)
+![GitHub License](https://img.shields.io/github/license/Liven11/TodoApp?color=%23b624ff)
 
 <p align="center">
 
@@ -70,6 +70,6 @@ To install and run the project locally, follow these steps:
 
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
-<a href="https://www.buymeacoffee.com/maciekt07" target="_blank">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1a1b27&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/Liven11" target="_blank">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Liven11&button_colour=1a1b27&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 </a>

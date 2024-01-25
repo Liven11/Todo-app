@@ -207,7 +207,7 @@ export const ProfileAvatar = () => {
         <StyledMenuItem
           translate="no"
           onClick={() => {
-            window.open("https://github.com/maciekt07/TodoApp");
+            window.open("https://github.com/Liven11/Todo-App/");
           }}
         >
           <GitHub /> &nbsp; Github{" "}
@@ -222,7 +222,7 @@ export const ProfileAvatar = () => {
         </StyledMenuItem>
         <StyledMenuItem
           onClick={() => {
-            window.open("https://github.com/maciekt07/TodoApp/issues/new");
+            window.open("https://github.com/Liven11/Todo-App/issues");
           }}
         >
           <BugReportRounded /> &nbsp; Report Issue{" "}

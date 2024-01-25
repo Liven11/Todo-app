@@ -298,7 +298,7 @@ export const ProfileAvatar = () => {
               style={{ textDecoration: "none", color: "inherit" }}
               href="https://github.com/Liven11"
             >
-              maciekt07
+              Liven11
             </a>
 
             <br />
